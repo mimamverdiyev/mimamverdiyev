@@ -1,6 +1,6 @@
 ## ABOUT ME:
 
-💻 I am Data Scientist 
+💻 I am a Data Scientist 
 
 👀 I’m interested in data mining, machine learning, business analytics
 
