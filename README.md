@@ -2,5 +2,5 @@
 
 - 💻: I am Data Scientist
 - 👀: I’m interested in data mining, machine learning, business analytics
-- 📩: Contact: mushviq.imamverdiyev@gmail.com
+- 📩: You can reach me via my email and social networks
 
